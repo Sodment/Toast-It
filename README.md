@@ -13,18 +13,24 @@ Android: https://play.google.com/store/apps/details?id=com.SlimeFox.Toastit
 
 iOS: https://apps.apple.com/us/app/toast-it-make-it-perfect/id1527098305#?platform=iphone
 
-# Contributors/Authors
+# Authors
 
 Science club Ruch Projektantow Gier from Poznań University of Technology:
 
-Sodment Product Owner/Developer
+https://github.com/Sodment
+Product Owner/Developer
 
-FluffleFox Developer/3D Models
+https://github.com/FluffleFox
+Developer/3D Models
 
-Bloszyk98 3D Models/ 3D Sprites
+https://github.com/Bloszyk98
+3D Models/2D Sprites
 
-zmienny Developer
+https://github.com/zmienny
+Developer
 
-Wolfensztein 3D Models/2D Sprites
+ https://github.com/Wolfensztein
+2D Sprites/3D Models
 
-nNown Developer
+https://github.com/nNown
+Developer
