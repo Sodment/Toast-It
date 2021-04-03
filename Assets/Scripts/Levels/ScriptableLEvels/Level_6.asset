@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e58c63501443d054c924400714742438, type: 3}
+  m_Name: Level_6
+  m_EditorClassIdentifier: 
+  arrowSpeed: 72
+  map: {fileID: 6225283361239783252, guid: 3fe0c4f4261eb8b4a9e715523ffe916f, type: 3}
+  paletteOfColours:
+  - {r: 0.3882353, g: 0.6862745, b: 0.8666667, a: 1}
+  - {r: 1, g: 0.38432366, b: 0.15566039, a: 1}
+  - {r: 0.9803922, g: 0.9058824, b: 0.76470596, a: 1}
+  - {r: 0.30980393, g: 0.15294118, b: 0, a: 1}
+  section: 2
+  indexOfColorInOrder: 0000000002000000010000000300000000000000
+  banedJams:
+  - butter_flare_FlipX
+  banedShapes:
+  - Chlebek_2
+  banedStamps:
+  - stepel_mis
+  availableJams:
+  - butter_flare_FlipX
+  - apricot_jam
+  availableShapes:
+  - Chlebek_1
+  - Chlebek_2
+  - Chlebek_3
+  - Chlebek_4
+  availableStamps:
+  - stepel_love
+  bonus: 0
+  bonusSpeedMiltipler: 2
+  bonusRange: 0
+  difficulty: 0

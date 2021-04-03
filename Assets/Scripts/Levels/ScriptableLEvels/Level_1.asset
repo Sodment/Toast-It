@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e58c63501443d054c924400714742438, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  arrowSpeed: 55
+  map: {fileID: 6225283361239783252, guid: 3fe0c4f4261eb8b4a9e715523ffe916f, type: 3}
+  paletteOfColours:
+  - {r: 1, g: 0.38431373, b: 0.15686275, a: 1}
+  - {r: 0.98039216, g: 0.90588236, b: 0.7647059, a: 1}
+  - {r: 0.30980393, g: 0.15294118, b: 0, a: 1}
+  section: 2
+  indexOfColorInOrder: 000000000200000001000000
+  banedJams:
+  - apricot_jam
+  banedShapes:
+  - Chlebek_1
+  banedStamps:
+  - stepel_mis
+  availableJams:
+  - NoneJam
+  availableShapes:
+  - Chlebek_1
+  availableStamps:
+  - stepel_love
+  bonus: 0
+  bonusSpeedMiltipler: 2
+  bonusRange: 0
+  difficulty: 0

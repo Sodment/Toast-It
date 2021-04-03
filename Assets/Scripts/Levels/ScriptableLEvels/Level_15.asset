@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e58c63501443d054c924400714742438, type: 3}
+  m_Name: Level_15
+  m_EditorClassIdentifier: 
+  arrowSpeed: 76
+  map: {fileID: 1333638814305041980, guid: 27ac71de077b8d54cbb415891ad337e8, type: 3}
+  paletteOfColours:
+  - {r: 0.3882353, g: 0.6862745, b: 0.8666667, a: 1}
+  - {r: 1, g: 0.38431373, b: 0.15686275, a: 1}
+  - {r: 0.98039216, g: 0.90588236, b: 0.7647059, a: 1}
+  - {r: 0.30980393, g: 0.15294118, b: 0, a: 1}
+  section: 3
+  indexOfColorInOrder: 0000000001000000020000000300000001000000
+  banedJams:
+  - apple_jam
+  banedShapes:
+  - Chlebek_3
+  banedStamps:
+  - stepel_mis
+  availableJams:
+  - apple_jam
+  - apricot_jam
+  - butter_flare_FlipX
+  - honey
+  - peanut_butter
+  availableShapes:
+  - Chlebek_1
+  - Chlebek_2
+  - Chlebek_3
+  - Chlebek_4
+  availableStamps:
+  - stepel_love
+  - stepel_mis
+  - stepel_slime
+  - stepel_serce
+  bonus: 1
+  bonusSpeedMiltipler: 2
+  bonusRange: 21.9
+  difficulty: 0.116
