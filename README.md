@@ -17,20 +17,20 @@ iOS: https://apps.apple.com/us/app/toast-it-make-it-perfect/id1527098305#?platfo
 
 Science club Ruch Projektantow Gier from Poznań University of Technology:
 
-https://github.com/Sodment
+[Sodment](https://github.com/Sodment)
 Product Owner/Developer
 
-https://github.com/FluffleFox
+[FluffleFox](https://github.com/FluffleFox)
 Developer/3D Models
 
-https://github.com/Bloszyk98
+[Bloszyk98](https://github.com/Bloszyk98)
 3D Models/2D Sprites
 
-https://github.com/zmienny
+[zmienny](https://github.com/zmienny)
 Developer
 
- https://github.com/Wolfensztein
+[Wolfensztein](https://github.com/Wolfensztein)
 2D Sprites/3D Models
 
-https://github.com/nNown
+[nNown](https://github.com/nNown)
 Developer
