@@ -9,9 +9,9 @@ Game is designed to be used on mobile devices runnning Android or iOS (iPads and
 # Installation
 The game can be downloaded from App Store or Play Store with the links provided below
 
-Android: https://play.google.com/store/apps/details?id=com.SlimeFox.Toastit
+[Android](https://play.google.com/store/apps/details?id=com.SlimeFox.Toastit)
 
-iOS: https://apps.apple.com/us/app/toast-it-make-it-perfect/id1527098305#?platform=iphone
+[iOS](https://apps.apple.com/us/app/toast-it-make-it-perfect/id1527098305#?platform=iphone)
 
 # Authors
 
